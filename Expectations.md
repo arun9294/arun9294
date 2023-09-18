@@ -13,4 +13,3 @@
 ## Why I am taking the course :
 
   - To advance my career in software development.
-
